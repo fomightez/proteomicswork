@@ -1,5 +1,5 @@
 # proteomicswork
-Dor utilities and code dealing with proteomics analysis
+For utilities and code dealing with proteomics analysis
 
 See also
 -------
