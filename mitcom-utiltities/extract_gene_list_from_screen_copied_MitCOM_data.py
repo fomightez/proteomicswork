@@ -272,7 +272,7 @@ if __name__ == "__main__" and '__file__' in globals():
     parser = argparse.ArgumentParser(prog=
         'extract_gene_list_from_screen_copied_MitCOM_data.py',
         description="extract_gene_list_from_screen_copied_MitCOM_data.py \
-        estracts standard gene names from text files containing data \
+        extracts standard gene names from text files containing data \
         copy-pasted from screen seen when working with MitCOM. \
         **** Script by Wayne Decatur   \
         (fomightez @ github) ***")
